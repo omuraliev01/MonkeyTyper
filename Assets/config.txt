@@ -1,0 +1,3 @@
+startSpeed=210
+spawnInterval=1
+fallingWordsSize=24
