@@ -2,7 +2,9 @@
 
 A minimalist, high-speed typing game built from scratch using **C++20** and the **SFML** graphics library. Test your typing speed and accuracy as words fall down the screen!
 
-![Gameplay Screenshot](media/screenshot.png)
+<img width="805" height="642" alt="screenshot" src="https://github.com/user-attachments/assets/926446f6-d3a5-4b5b-b9d4-ab92aed74502" />
+
+
 
 ## ✨ Features
 * **Real-time Word Generation:** Randomly selected words spawn and fall at adjustable intervals.
@@ -12,7 +14,7 @@ A minimalist, high-speed typing game built from scratch using **C++20** and the 
 * **Modern C++ Architecture:** Clean, modular code using OOP principles and `{fmt}` for string formatting.
 
 ## 📽️ Gameplay Demo
-*(Drag and drop your MP4 file here in the GitHub editor to show the game in action!)*
+![MonkeyTyper-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/68da0e59-7a44-457c-8c4d-46253c2cedb5)
 
 ## 🛠️ Tech Stack
 * **Language:** C++20
